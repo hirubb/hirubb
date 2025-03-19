@@ -2,9 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirubb&label=Profile%20views&color=0e75b6&style=flat" alt="hirubb" /> </p>
 
-- 🔭 I’m currently working on **ITP**
-
-- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **hirunbhathiya@gmail.com**
 
